@@ -1,0 +1,11 @@
+.divider{
+  display: flex;
+    width: 100%;
+}
+.productmenu{
+    width: 18%;
+    border-right: gray solid;
+}
+.productmain{
+    width: 82%;
+}
